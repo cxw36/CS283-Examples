@@ -1,5 +1,4 @@
 C:\Users\user\Desktop\CS283-Examples\CommonLibraries\AppleStoreLibrary\bin\Debug\AppleStoreLibrary.dll
 C:\Users\user\Desktop\CS283-Examples\CommonLibraries\AppleStoreLibrary\bin\Debug\AppleStoreLibrary.pdb
-C:\Users\user\Desktop\CS283-Examples\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\CS283-Examples\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.dll
 C:\Users\user\Desktop\CS283-Examples\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.pdb

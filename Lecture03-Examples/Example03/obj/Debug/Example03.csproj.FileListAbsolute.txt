@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\Example03.exe.config
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\Example03.exe
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\Example03.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\obj\Debug\Example03.exe
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\obj\Debug\Example03.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\PokemonRunLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\bin\Debug\PokemonRunLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache

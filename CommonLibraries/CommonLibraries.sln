@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonRunLibrary", "Pokemo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleStoreLibrary", "AppleStoreLibrary\AppleStoreLibrary.csproj", "{0CA9A065-D267-4ACB-B2E6-2F01E3AB69ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMathLibrary", "EasyMathLibrary\EasyMathLibrary.csproj", "{77AB24E7-AA08-4C88-8139-712E9ECE99E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0CA9A065-D267-4ACB-B2E6-2F01E3AB69ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CA9A065-D267-4ACB-B2E6-2F01E3AB69ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CA9A065-D267-4ACB-B2E6-2F01E3AB69ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AB24E7-AA08-4C88-8139-712E9ECE99E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AB24E7-AA08-4C88-8139-712E9ECE99E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AB24E7-AA08-4C88-8139-712E9ECE99E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AB24E7-AA08-4C88-8139-712E9ECE99E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

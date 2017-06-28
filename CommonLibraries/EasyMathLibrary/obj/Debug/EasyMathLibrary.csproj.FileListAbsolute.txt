@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb

@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\CodeOrgLibrary\bin\Debug\CodeOrgLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\CodeOrgLibrary\bin\Debug\CodeOrgLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\CodeOrgLibrary\obj\Debug\CodeOrgLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\Lecture03-Examples\CodeOrgLibrary\obj\Debug\CodeOrgLibrary.pdb
