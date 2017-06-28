@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\PokemonRunLibrary\bin\Debug\PokemonRunLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\PokemonRunLibrary\bin\Debug\PokemonRunLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.csprojResolveAssemblyReference.cache

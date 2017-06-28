@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.pdb

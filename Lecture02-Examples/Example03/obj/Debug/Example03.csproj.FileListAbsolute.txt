@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\bin\Debug\Example03.exe.config
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\bin\Debug\Example03.exe
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\bin\Debug\Example03.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\obj\Debug\Example03.exe
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\obj\Debug\Example03.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\bin\Debug\StudentLibrary.dll
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\bin\Debug\StudentLibrary.pdb
+C:\Users\user\Desktop\CS283-Examples\Lecture02-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
